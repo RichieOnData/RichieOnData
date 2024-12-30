@@ -1,6 +1,8 @@
 # 💫 About Me:
 I’m currently pursuing a Data Science Honors degree at Christ University Delhi NCR 📚, where I’m honing my skills in programming 💻, data analysis 📊, and machine learning 🤖. My time at Christ University is filled with opportunities to learn and grow 🌱, collaborating with peers and mentors 👥 on various projects that bridge theory and practical application. The university's strong focus on innovation and research 🔬 drives me to continuously challenge myself, pushing the boundaries of what's possible in the world of data science. Outside of academics, I’m passionate about fitness 🏋️‍♂️, intraday trading 📈, and investing 💸, constantly balancing my technical skills with personal growth to lead a well-rounded and driven life.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=RichieOnData&label=Profile%20views&color=blueviolet&style=flat" alt="john-peter" /> </p>
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jhnpete) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-peter-2b2782262/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Jean7Pierrerickk) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Early-Background-592) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/JohnPeter783) 
@@ -24,4 +26,4 @@ I’m currently pursuing a Data Science Honors degree at Christ University Delhi
 ---
 [![](https://visitcount.itsvg.in/api?id=RichieOnData&icon=0&color=2)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
