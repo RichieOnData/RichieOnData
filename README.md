@@ -1,6 +1,8 @@
 # 💫 About Me:
 I’m currently pursuing a Data Science Honors degree at Christ University Delhi NCR 📚, where I’m honing my skills in programming 💻, data analysis 📊, and machine learning 🤖. My time at Christ University is filled with opportunities to learn and grow 🌱, collaborating with peers and mentors 👥 on various projects that bridge theory and practical application. The university's strong focus on innovation and research 🔬 drives me to continuously challenge myself, pushing the boundaries of what's possible in the world of data science. Outside of academics, I’m passionate about fitness 🏋️‍♂️, intraday trading 📈, and investing 💸, constantly balancing my technical skills with personal growth to lead a well-rounded and driven life.
 
+📫 How to reach me johnpeterwork22@gmail.com
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RichieOnData&label=Profile%20views&color=blueviolet&style=flat" alt="john-peter" /> </p>
 
 
